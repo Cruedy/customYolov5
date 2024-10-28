@@ -14,52 +14,52 @@ test: test-dev2017.txt # 20288 of 40670 images, submit to https://competitions.c
 
 # Classes
 names:
-  0: person
-  1: bicycle
-  2: car
-  3: motorcycle
-  4: airplane
-  5: bus
-  6: train
-  7: truck
-  8: boat
-  9: traffic light
-  10: fire hydrant
-  11: stop sign
-  12: parking meter
-  13: bench
-  14: bird
-  15: cat
-  16: dog
-  17: horse
-  18: sheep
-  19: cow
-  20: elephant
-  21: bear
-  22: zebra
-  23: giraffe
-  24: backpack
-  25: umbrella
-  26: handbag
-  27: tie
-  28: suitcase
-  29: frisbee
-  30: skis
-  31: snowboard
-  32: sports ball
-  33: kite
-  34: baseball bat
-  35: baseball glove
-  36: skateboard
-  37: surfboard
-  38: tennis racket
-  39: bottle
-  40: wine glass
-  41: cup
-  42: fork
-  43: knife
-  44: spoon
-  45: bowl
+  0: lemon
+  1: lime
+  2: pepper
+  3: can
+  4: ice
+  5: juice
+  6: strawberry
+  7: raspberry
+  8: blueberry
+  9: soda
+  10: sauce
+  11: asparagus
+  12: beans
+  13: lettuce
+  14: kale
+  15: spinach
+  16: egg
+  17: milk
+  18: squash
+  19: eggplant
+  20: avocado
+  21: bread
+  22: yogurt
+  23: cheese
+  24: steak
+  25: chicken
+  26: mushroom
+  27: pork
+  28: sausage
+  29: bacon
+  30: garlic
+  31: ginger
+  32: onion
+  33: bagel
+  34: donut
+  35: cake
+  36: cupcake
+  37: pomegranate
+  38: date
+  39: fig
+  40: dragon fruit
+  41: croissant
+  42: cookie
+  43: chips
+  44: pickle
+  45: cereal
   46: banana
   47: apple
   48: sandwich
@@ -68,32 +68,32 @@ names:
   51: carrot
   52: hot dog
   53: pizza
-  54: donut
-  55: cake
-  56: chair
-  57: couch
-  58: potted plant
-  59: bed
-  60: dining table
-  61: toilet
-  62: tv
-  63: laptop
-  64: mouse
-  65: remote
-  66: keyboard
-  67: cell phone
-  68: microwave
-  69: oven
-  70: toaster
-  71: sink
-  72: refrigerator
-  73: book
-  74: clock
-  75: vase
-  76: scissors
-  77: teddy bear
-  78: hair drier
-  79: toothbrush
+  54: sour cream
+  55: pie
+  56: cream cheese
+  57: pasta
+  58: butter
+  59: kiwi
+  60: mango
+  61: fries
+  62: burger
+  63: lasagna
+  64: chocolate
+  65: pepperoni
+  66: potato
+  67: tuna
+  68: salmon
+  69: brussel sprouts
+  70: sprouts
+  71: jackfruit
+  72: watermelon
+  73: smoothie
+  74: pickle
+  75: cucumber
+  76: cauliflower
+  77: oatmeal
+  78: edamame
+  79: salad
 
 # Download script/URL (optional)
 download: |

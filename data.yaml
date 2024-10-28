@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 44
+names: ['apple', 'asparagus', 'avocado', 'banana', 'beans', 'blueberries', 'bread', 'broccoli', 'brussel sprouts', 'butter', 'can', 'carrot', 'cereal', 'cheese', 'cherry', 'corn', 'cucumber', 'eggplant', 'eggs', 'garlic', 'grape', 'jice', 'juice', 'kiwi', 'lemon', 'lettuce', 'lime', 'mango', 'meat', 'milk', 'mushroom', 'onion', 'orange', 'pepper', 'pickle', 'pineapple', 'plum', 'sauce', 'sausage', 'soda', 'spinach', 'strawberry', 'tomato', 'yogurt']
+
+roboflow:
+  workspace: cas-ruedy
+  project: customyolo5v
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cas-ruedy/customyolo5v/dataset/1
