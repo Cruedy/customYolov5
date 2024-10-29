@@ -499,6 +499,8 @@ if __name__ == "__main__":
         "https://ultralytics.com/images/zidane.jpg",  # URI
         cv2.imread("data/images/bus.jpg")[:, :, ::-1],  # OpenCV
         Image.open("data/images/bus.jpg"),  # PIL
+        cv2.imread("data/images/insideFridge1.jpg")[:, :, ::-1],  # OpenCV
+        Image.open("data/images/insideFridge1.jpg"),  # PIL
         np.zeros((320, 640, 3)),
     ]  # numpy
 
@@ -508,3 +510,4 @@ if __name__ == "__main__":
     # Results
     results.print()
     results.save()
+model = _create("best.pt", autoshape=True, device="cpu")

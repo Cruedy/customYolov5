@@ -2,12 +2,12 @@ train: ../train/images
 val: ../valid/images
 test: ../test/images
 
-nc: 44
-names: ['apple', 'asparagus', 'avocado', 'banana', 'beans', 'blueberries', 'bread', 'broccoli', 'brussel sprouts', 'butter', 'can', 'carrot', 'cereal', 'cheese', 'cherry', 'corn', 'cucumber', 'eggplant', 'eggs', 'garlic', 'grape', 'jice', 'juice', 'kiwi', 'lemon', 'lettuce', 'lime', 'mango', 'meat', 'milk', 'mushroom', 'onion', 'orange', 'pepper', 'pickle', 'pineapple', 'plum', 'sauce', 'sausage', 'soda', 'spinach', 'strawberry', 'tomato', 'yogurt']
+nc: 85
+names: ['apple', 'asparagus', 'avocado', 'bacon', 'bagel', 'banana', 'beans', 'blueberry', 'bottle', 'bread', 'broccoli', 'brussel sprouts', 'burger', 'butter', 'cake', 'can', 'carrot', 'cauliflower', 'cereal', 'cheese', 'cherry', 'chicken', 'chips', 'chocolate', 'cookie', 'corn', 'cream-cheese', 'croissant', 'cucumber', 'cupcake', 'date', 'donut', 'dragon-fruit', 'edamame', 'egg', 'eggplant', 'fig', 'fries', 'garlic', 'ginger', 'grape', 'hot-dog', 'jackfruit', 'juice', 'kale', 'kiwi', 'lasagna', 'lemon', 'lettuce', 'lime', 'mango', 'milk', 'mushroom', 'oatmeal', 'onion', 'orange', 'pasta', 'pepper', 'pepperoni', 'pickle', 'pie', 'pineapple', 'pizza', 'plum', 'pomegranate', 'pork', 'potato', 'raspberry', 'salad', 'salmon', 'sandwich', 'sauce', 'sausage', 'smoothie', 'soda', 'sour-cream', 'spinach', 'sprouts', 'squash', 'steak', 'strawberry', 'tomato', 'tuna', 'watermelon', 'yogurt']
 
 roboflow:
   workspace: cas-ruedy
   project: customyolo5v
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/cas-ruedy/customyolo5v/dataset/1
+  url: https://universe.roboflow.com/cas-ruedy/customyolo5v/dataset/2

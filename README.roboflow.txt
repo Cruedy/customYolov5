@@ -1,8 +1,8 @@
 
-CustomYolo5v - v1 2024-10-28 6:44am
+CustomYolo5v - v2 2024-10-28 9:09pm
 ==============================
 
-This dataset was exported via roboflow.com on October 28, 2024 at 6:45 AM GMT
+This dataset was exported via roboflow.com on October 28, 2024 at 9:10 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 12 images.
+The dataset includes 172 images.
 Foods are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:
